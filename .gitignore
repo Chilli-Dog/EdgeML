@@ -1,0 +1,19 @@
+# Virtual Environments
+.venv/
+venv_windows/
+venv/
+__pycache__/
+
+# Folders & Testing
+gesture_examples/
+testing/
+
+# Data Files & Datasets
+*.csv
+*.h
+
+# IDE / System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
